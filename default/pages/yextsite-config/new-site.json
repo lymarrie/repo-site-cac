@@ -1,7 +1,7 @@
 {
     "$id": "${{siteId}}",
     "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
-    "domain": "${{domainName}}",
+    "domainConfig": "${{domainName}}",
     "siteName": "${{siteName}}",
     "repoConfig": "${{repoId}}",
     "siteSettings": {
